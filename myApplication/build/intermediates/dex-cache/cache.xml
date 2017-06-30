@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\.android\build-cache\ab2789141615be94557e0ea5b3e2ff1ccaa09e8b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a14c5e26b814ae4ad3109875eff43211bf0bfc22\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\44afe0950143527b12a1ba00863098fe955104d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\classes_d4ee010881e9e9b08ceb80d1097f2750d893ea60.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1818aca71094b152227b77404a12f887f94008e2">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f8617e5be73af56be4cc71e180b7e71c6ecef0c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\29fb459c8f15e96adf39cff2a5ba296057d10d20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\pre-dexed\debug\classes_dd2f9a7b6d5cd9e917ea24e22359351fb5e98e43.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.2.0_08e0ab9d154323871ff1b11d8934fd0abd0333fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\ab2789141615be94557e0ea5b3e2ff1ccaa09e8b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\classes_a14c5e26b814ae4ad3109875eff43211bf0bfc22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\b5798ce6e2222c99f9aadbdf63129735552bbfb0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\classes_d79450fc7962a767133b5becf7995d941ee8c1d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_08e0ab9d154323871ff1b11d8934fd0abd0333fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\e235b67e8d7f6494ed8bf4992e4303ae491edfba\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\pre-dexed\debug\classes_ff90e1fb58260b276c83f115a60b495fe4c23bd4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\.android\build-cache\b5798ce6e2222c99f9aadbdf63129735552bbfb0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d79450fc7962a767133b5becf7995d941ee8c1d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\.android\build-cache\26ef11b34e5c370ce7c7570736119fe5c8ab8ce2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b4ce023411df2f463311f9bbb961dfe62f217dcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\4a09812a94799ecf3809f342ca1f6da4cf045971\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\pre-dexed\debug\classes_0b964af4fe0b8825a085aaf51cc1a2dccdfbbf5c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\.android\build-cache\f847292809df731f8ed0c8c60681c6063b2ef55c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ded085a6e11d37df08cc3c410b58909201f60819\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\.android\build-cache\44afe0950143527b12a1ba00863098fe955104d6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4ee010881e9e9b08ceb80d1097f2750d893ea60\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\26ef11b34e5c370ce7c7570736119fe5c8ab8ce2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\classes_b4ce023411df2f463311f9bbb961dfe62f217dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\f847292809df731f8ed0c8c60681c6063b2ef55c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\classes_ded085a6e11d37df08cc3c410b58909201f60819.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\0ecf528597128c6a29450be25b38e06ba3c6f650\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\pre-dexed\debug\classes_0f59f293507dc5ac0b727ef7c9e690392b1624d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\f2897050931d7852285295308e37efd5e50acebd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\pre-dexed\debug\classes_b44e879f981bbd0a99e52f99891ca2a0270a8d92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\b446236f17e3145acc932e6322ef8135617e7676\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\pre-dexed\debug\classes_100f928a07d79917dddbd6256111f053a81cbaca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="543b351ceb245146d60e370edb0f8a4ecd6bc480">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d4136f3366353bc61c4d3901eadf0012d57c8b4e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6a36aaa73e2e467a0ffe525ede7a727232b1de5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\86011a2892927939db8fea632a910cfe525214ee\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\pre-dexed\debug\classes_3532c57e3526c4398b357a82cf403619c9ff9bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_64d7b7390e16984f8fea3bd7b57080b5d0dade64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_5f722cbd087511d45a81da5bc2b83779845c737b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\.android\build-cache\fc94e77a363ad29a6f4eace5ac3d0e0f547de78a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e76c39c6bd6a687feaf9f7500b97e0e558980e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\fc94e77a363ad29a6f4eace5ac3d0e0f547de78a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\classes_6e76c39c6bd6a687feaf9f7500b97e0e558980e6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\.android\build-cache\7cc4a7cc19ed7eaa0110a50e6bafd1b8eb520a32\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2e6b8937f6ccf83ec3cc591e076a3a8651b01913\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\72476004f96008227148a5969716c21d4545d8eb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\classes_eeb3ead7ec3d6c4d8422eed86900473f61755fac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\7cc4a7cc19ed7eaa0110a50e6bafd1b8eb520a32\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\classes_2e6b8937f6ccf83ec3cc591e076a3a8651b01913.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\11ab233f7ca5af47cac508d2b8a30372624f4225\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\pre-dexed\debug\classes_9300ce0c5e68e72846e82160bdfbf7bd7fa1211d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\fcf1dc16044220e540cdcb3ae17d847465fe6d21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\pre-dexed\debug\classes_b9711879e816f66d701805f577f0a641cbc37a71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\9cce4743a73d9f73c9709b59fd2d102275fa157f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="82ee2b306014da82147b5b2f1881bf1260c1e2a9">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\classes_8d3212e40824fcbc10df6bbd567a697af4a30472.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\.android\build-cache\9cce4743a73d9f73c9709b59fd2d102275fa157f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="82ee2b306014da82147b5b2f1881bf1260c1e2a9">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d3212e40824fcbc10df6bbd567a697af4a30472\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\.android\build-cache\72476004f96008227148a5969716c21d4545d8eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eeb3ead7ec3d6c4d8422eed86900473f61755fac\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\1cdae704cb5976ddaa0a9f7d731593bbefd378e9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\pre-dexed\debug\classes_8ccbf36585e23563dfe7c6d379f9b113888827d9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cceab51236d2e900ad4b23d81e9fad75119e1f59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\.android\build-cache\40c353c3ed07c9697145cff7f193344bee30a8e8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cc03ddac6017ba6366944c3eb01efc8751a00a6b">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ee0cbdb509ac09297ccedb333e70d8bf443f2684\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\40c353c3ed07c9697145cff7f193344bee30a8e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cc03ddac6017ba6366944c3eb01efc8751a00a6b">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\classes_ee0cbdb509ac09297ccedb333e70d8bf443f2684.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\1f7b161a68ce371f992e4754474487829062a7c6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\mobile\build\intermediates\pre-dexed\debug\classes_a3e85657c54db881462d81c9217b12642994d898.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\a5167258595911774a7f0f380b9405fb79741dad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\classes_8bf353b0665e1b7d783e5c4005f71503abd6ca9d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\.android\build-cache\a5167258595911774a7f0f380b9405fb79741dad\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8bf353b0665e1b7d783e5c4005f71503abd6ca9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\f570fd10f31ce4f625cbfae6bacff6fb197a0126\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\classes_ad99e8a573e87610e94fbafd909983b706b402c8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\12086\.android\build-cache\91aa73fa56bc6b391c82723431521fc1d2a2b433\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\pre-dexed\debug\classes_6b7df6cafebdb788377936ffee00fb162bfda82a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\.android\build-cache\f570fd10f31ce4f625cbfae6bacff6fb197a0126\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ad99e8a573e87610e94fbafd909983b706b402c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\12086\.android\build-cache\91aa73fa56bc6b391c82723431521fc1d2a2b433\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\ProgramFiles\Users\12086\AndroidStudioProjects\androidWearMiS-master\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6b7df6cafebdb788377936ffee00fb162bfda82a\classes.dex" />
+    </item>
+
+</items>
