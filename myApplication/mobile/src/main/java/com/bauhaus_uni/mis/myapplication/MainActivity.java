@@ -30,9 +30,10 @@ public class MainActivity extends AppCompatActivity implements DataHandler {
 
 
     private static final String TAG = "mobile";
-    private static TextView textViewX,textViewY,textViewZ;
+    private static TextView textViewX,textViewY,textViewZ,textViewXYZ;
     public static Handler messageHandler = new MessageHandler();
-    private static String accX="X",accY="Y",accZ="Z";
+    private static String gyX="X",gyY="Y",gyZ="Z",gyXYZ="XYZ";
+    //private static String accX="X",accY="Y",accZ="Z";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -47,6 +48,8 @@ public class MainActivity extends AppCompatActivity implements DataHandler {
         textViewX = (TextView) findViewById(R.id.textView);
         textViewY = (TextView) findViewById(R.id.textView1);
         textViewZ = (TextView) findViewById(R.id.textView2);
+        textViewXYZ = (TextView) findViewById(R.id.textView3);
+
         graphView = (GraphView) findViewById(R.id.GraphView1);
 
         seriesX = new LineGraphSeries<>();
@@ -84,12 +87,14 @@ public class MainActivity extends AppCompatActivity implements DataHandler {
     public static class MessageHandler extends Handler {
         public void handleMessage(Message message) {
             Bundle bundle = message.getData();
-            Log.i(TAG,"SendMessageX"+ bundle.getString(accX));
-            Log.i(TAG,"SendMessageY"+ bundle.getString(accY));
-            Log.i(TAG,"SendMessageZ"+ bundle.getString(accZ));
-            textViewX.setText(bundle.getString(accX));
-            textViewY.setText(bundle.getString(accY));
-            textViewZ.setText(bundle.getString(accZ));
+            Log.i(TAG,"SendMessageX"+ bundle.getString(gyX));
+            Log.i(TAG,"SendMessageY"+ bundle.getString(gyY));
+            Log.i(TAG,"SendMessageZ"+ bundle.getString(gyZ));
+            Log.i(TAG,"SendMessageXYZ"+ bundle.getString(gyXYZ));
+            textViewX.setText(bundle.getString(gyX));
+            textViewY.setText(bundle.getString(gyY));
+            textViewZ.setText(bundle.getString(gyZ));
+            textViewXYZ.setText(bundle.getString(gyXYZ));
             //https://stackoverflow.com/questions/20594936/communication-between-activity-and-service
         }
     }

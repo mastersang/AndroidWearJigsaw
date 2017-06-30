@@ -45,5 +45,13 @@
         android:layout_width="360dp"
         android:layout_height="170dp" />
 
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextxyzView"
+        tools:layout_editor_absoluteX="131dp"
+        tools:layout_editor_absoluteY="314dp" />
+
 
 </android.support.constraint.ConstraintLayout>

@@ -86,9 +86,9 @@ public class Gyroscope extends WearableActivity implements SensorEventListener,D
         mSensorManager=(SensorManager)getSystemService(Context.SENSOR_SERVICE);
         mGyroscope=mSensorManager.getDefaultSensor(Sensor.TYPE_GYROSCOPE);
         if(mGyroscope!=null){
-            mTextView.setText("HELLO Accelerometer");
+            mTextView.setText("HELLO Gyroscope");
         }else{
-            mTextView.setText("Sorry, there is no accelerometer sensor");
+            mTextView.setText("Sorry, there is no Gyroscope sensor");
         }
 
         mSensorManager.registerListener(this,mGyroscope,SensorManager.SENSOR_DELAY_NORMAL);

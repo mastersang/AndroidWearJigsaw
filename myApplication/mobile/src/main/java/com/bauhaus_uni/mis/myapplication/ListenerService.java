@@ -24,15 +24,22 @@ import java.util.List;
  */
 
 public class ListenerService extends WearableListenerService {
-    private static final String PATH_SENSOR_DATA = "/accelerometer";
+    /*private static final String PATH_SENSOR_DATA = "/accelerometer";
     private static final String DataKey_Accelormeter_X="acc_x";
     private static final String DataKey_Accelormeter_Y="acc_y";
-    private static final String DataKey_Accelormeter_Z="acc_z";
+    private static final String DataKey_Accelormeter_Z="acc_z";*/
+
+    private static final String PATH_SENSOR_DATA = "/mGyroscope";
+    private static final String DataKey_Gyroscope_X="Gyroscope_x";
+    private static final String DataKey_Gyroscope_Y="Gyroscope_y";
+    private static final String DataKey_Gyroscope_Z="Gyroscope_z";
+    private static final String DataKey_Gyroscope="Gyroscope";
+
     private DataHandler dataHandler;
     private DataMap dataMap;
     private Messenger messageHandler;
-    private static String accX="X",accY="Y",accZ="Z";
-
+    //private static String accX="X",accY="Y",accZ="Z";
+    private static String gyX="X",gyY="Y",gyZ="Z",gyXYZ="XYZ";
 
     public void setDataHandler(DataHandler dataHandler){
         this.dataHandler=dataHandler;
@@ -49,11 +56,18 @@ public class ListenerService extends WearableListenerService {
             // Check the data type
             if( PATH_SENSOR_DATA .equals(path)){
                 final DataMap map=DataMapItem.fromDataItem(event.getDataItem()).getDataMap();
-                float x=map.getFloat(DataKey_Accelormeter_X);
+        /*        float x=map.getFloat(DataKey_Accelormeter_X);
                 //sendMessage(x);
                 float y=map.getFloat(DataKey_Accelormeter_Y);
                 float z=map.getFloat(DataKey_Accelormeter_Z);
-                sendMessage(x,accX,y,accY,z,accZ);
+                sendMessage(x,accX,y,accY,z,accZ);*/
+
+                float x=map.getFloat(DataKey_Gyroscope_X);
+                //sendMessage(x);
+                float y=map.getFloat(DataKey_Gyroscope_Y);
+                float z=map.getFloat(DataKey_Gyroscope_Z);
+                float xyz=map.getFloat(DataKey_Gyroscope);
+                sendMessage(x,gyX,y,gyY,z,gyZ,xyz,gyXYZ);
                 if(dataHandler!=null)
                 dataHandler.handler(x,y,z);
             }
@@ -74,12 +88,13 @@ public class ListenerService extends WearableListenerService {
         }
         //https://stackoverflow.com/questions/20594936/communication-between-activity-and-service
     }*/
-    public void sendMessage(float x, String a,float y,String b,float z,String c) {
+    public void sendMessage(float x, String a,float y,String b,float z,String c,float xyz, String abc) {
         Message message = Message.obtain();
         Bundle bundle = new Bundle();
         bundle.putString(a,String.valueOf(x));
         bundle.putString(b,String.valueOf(y));
         bundle.putString(c,String.valueOf(z));
+        bundle.putString(abc,String.valueOf(xyz));
         message.setData(bundle);
         try {
             messageHandler.send(message);
