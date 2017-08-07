@@ -2,40 +2,130 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c9f83f91bad4cb7efd85a1050b8b12f15c3316ba">
-        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\mobile\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1664f106320b66fbe082412e48ff262e4b4cd76a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\80d24e9491695dd183eb467b52629eceb7376f8a\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_af39c7a891a4771ae962258cb5ea866d6cf4b0c2\classes.dex" />
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\classes_ed504f1fa25dda1c2ca4c0314f3467e8f48eef2d.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\53bec76766ce894ce8f62e0606b01add022e421f\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="2ea942707336a8e0a7e43157a285ff1c57fc60b6">
-        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_81071b207e14d308174abe0940fbfaa4041a452e\classes.dex" />
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\classes_d2e5576bf013a0d4cda57828a9f11d1f5ba04b85.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\4f2ae3f8ac325965e73e66c613c738b75b756472\output\jars\classes.jar"
+        jumboMode="false"
         optimize="true"
-        revision="25.0.2"
-        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\mobile\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d2074d976eb82c6a1264b9486d482a2f421f7faa\classes.dex" />
+        revision="25.0.3"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\classes_24aebd3328bbb936a756726acd4e063bc0b97a9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\8372eea301d997c19e7fb5e214fad245778cc948\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cc03ddac6017ba6366944c3eb01efc8751a00a6b">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\classes_26657a3823028f2fd5a95aed6201aedb2a6ed73c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_95d6c803696d79e52ebb3bab6ba772509c1345e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\fe3e90aabdd8c44ba2ee4d901549dbe8d3d049f0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\classes_ac458d75cab3ec90da9b58d418d54fd4d91dd81d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\a58bd8570363333a4578b5851f9a1c3a2e2771fe\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\classes_3bb6dbc48396f1ec9e8e9336d8a1df6bad4590f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\3126e60f2bff900893d6efce5a82efad94c90228\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dd1d0d84da2cff18f741c63a9c3af7d9aa89fdd6">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\classes_0bad5baa32a4c2e5f7194b6c2de7c8cd272b3ff3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\fdfced2eb006c6a54a86bcd11bb9e684f1cd3267\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b95f2bf44857a158b097e9f80d5d18d69f32584">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\classes_85d609710742121ded71dc36578cdad56d59b554.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\bc195d6745cc87ed0fb3eea242a5b026b69381b1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\classes_af62f0d05e7c8f317e577c60e90ca2daca461e65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\144f1ddfeb4067a9748d4d28ddbfc99fcd60bf18\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="82ee2b306014da82147b5b2f1881bf1260c1e2a9">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\classes_03abe887a745fe9c6418736899ff5240021f7b07.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\afb1cbe18d54cff45348c1cd9a040c05a06b6be6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\classes_5328e3f134ffb5e5e930167954fb57150129c3a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\16dd3c7c774e552f810be6d1475655c11a7a700b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\classes_430c119a2170fe56c17fd965ca43f582020b0a47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ADMIN\.android\build-cache\fe5a96a4cbe0e1651a644f92874bfde89c4785dc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\pre-dexed\debug\classes_185f97964ff1aea6730ad42b91d6850959a81d46.jar" />
     </item>
 
 </items>
