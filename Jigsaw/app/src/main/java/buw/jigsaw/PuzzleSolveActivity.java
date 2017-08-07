@@ -4,10 +4,12 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.os.Bundle;
 import android.os.Environment;
+import android.os.Messenger;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
@@ -17,6 +19,7 @@ import android.widget.ImageView;
 import java.io.File;
 
 import buw.jigsaw.enums.Difficulty;
+import buw.jigsaw.wear.ListenerService;
 
 public class PuzzleSolveActivity extends Activity {
 	private PuzzleView pv;
@@ -99,6 +102,10 @@ public class PuzzleSolveActivity extends Activity {
 		};
 
 		menu.setOnClickListener(menuListener);
+
+		Intent startService = new Intent(this, ListenerService.class);
+		startService.putExtra("MESSENGER", new Messenger(pv.messageHandler));
+		this.startService(startService);
 	}
 
 	/** Called when the activity is first created. */

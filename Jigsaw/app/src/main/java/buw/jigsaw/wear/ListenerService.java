@@ -23,14 +23,14 @@ import java.util.List;
  */
 
 public class ListenerService extends WearableListenerService {
-    private static final String PATH_SENSOR_DATA = "/accelerometer";
-    private static final String DataKey_Accelormeter_X="acc_x";
-    private static final String DataKey_Accelormeter_Y="acc_y";
-    private static final String DataKey_Accelormeter_Z="acc_z";
+    private static final String PATH_SENSOR_DATA = "/mGyroscope";
+    private static final String DataKey_Accelormeter_X="Gyroscope_x";
+    private static final String DataKey_Accelormeter_Y="Gyroscope_y";
+    private static final String DataKey_Accelormeter_Z="Gyroscope_z";
     private DataHandler dataHandler;
     private DataMap dataMap;
     private Messenger messageHandler;
-    private static String accX="X",accY="Y",accZ="Z";
+    private static String accX="Gyroscope_x",accY="Gyroscope_y",accZ="Gyroscope_z";
 
 
     public void setDataHandler(DataHandler dataHandler){
@@ -38,6 +38,7 @@ public class ListenerService extends WearableListenerService {
     }
 
     public void onDataChanged(DataEventBuffer dataEvents) {
+        Toast.makeText(this, "onDataChanged", Toast.LENGTH_SHORT).show();
         super.onDataChanged(dataEvents);
         final List<DataEvent> events= FreezableUtils.freezeIterable(dataEvents);
 

@@ -3,6 +3,9 @@ package buw.jigsaw;
 import android.content.Context;
 import android.graphics.Bitmap;
 import android.graphics.Canvas;
+import android.os.Bundle;
+import android.os.Handler;
+import android.os.Message;
 import android.util.AttributeSet;
 import android.view.GestureDetector;
 import android.view.GestureDetector.OnDoubleTapListener;
@@ -25,6 +28,8 @@ public class PuzzleView extends View implements OnGestureListener,
     private Piece tapped;
     private boolean firstDraw = true;
     private float scale = 1.0f;
+    public Handler messageHandler = new MessageHandler();
+    private static String gyX = "Gyroscope_x", gyY = "Gyroscope_y", gyZ = "Gyroscope_z";
 
     public PuzzleView(Context context) {
         super(context);
@@ -246,5 +251,22 @@ public class PuzzleView extends View implements OnGestureListener,
     @Override
     public void onAnimationStart(Animation animation) {
         // TODO Auto-generated method stub
+    }
+
+    private class MessageHandler extends Handler {
+        public void handleMessage(Message message) {
+            Bundle bundle = message.getData();
+            Double x = Double.parseDouble(bundle.getString(gyX));
+            Double y = Double.parseDouble(bundle.getString(gyY));
+            Double z = Double.parseDouble(bundle.getString(gyZ));
+
+            // only rotate if currently tapping on a piece
+            if (tapped != null) {
+                // only turn if rotate angle is larger than 1 radian
+                if (Math.abs(y) > 1) {
+                    tapped.turn(y.intValue());
+                }
+            }
+        }
     }
 }

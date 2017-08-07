@@ -43,16 +43,14 @@ public class Piece {
 		this.image.setImageBitmap(display);
 	}
 
-	public void turn() {
-		orientation++;
+	public void turn(int intOrientationChange) {
+		orientation += intOrientationChange;
+		orientation %= 4;
+
 		Matrix m = new Matrix();
-		m.setRotate(90, original.getWidth() / 2, original.getHeight() / 2);
+		m.setRotate(90 * intOrientationChange, original.getWidth() / 2, original.getHeight() / 2);
 		original = Bitmap.createBitmap(original, 0, 0, original.getWidth(),
 				original.getHeight(), m, true);
-
-		if (orientation >= 4) {
-			orientation = 0;
-		}
 	}
 
 	public void draw(Canvas c) {

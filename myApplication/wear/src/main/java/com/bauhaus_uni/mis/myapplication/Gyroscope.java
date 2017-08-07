@@ -91,7 +91,7 @@ public class Gyroscope extends WearableActivity implements SensorEventListener,D
             mTextView.setText("Sorry, there is no Gyroscope sensor");
         }
 
-        mSensorManager.registerListener(this,mGyroscope,SensorManager.SENSOR_DELAY_NORMAL);
+        mSensorManager.registerListener(this,mGyroscope,SensorManager.SENSOR_DELAY_GAME);
 
         startDataUpDated();
     }
@@ -224,7 +224,7 @@ public class Gyroscope extends WearableActivity implements SensorEventListener,D
             if (event.getType() == DataEvent.TYPE_CHANGED) {
                 // DataItem changed
                 DataItem item = event.getDataItem();
-                if (item.getUri().getPath().compareTo("/accelerometer") == 0) {
+                if (item.getUri().getPath().compareTo(PATH_SENSOR_DATA) == 0) {
                     DataMap dataMap = DataMapItem.fromDataItem(item).getDataMap();
 
                 }

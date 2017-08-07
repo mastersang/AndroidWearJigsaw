@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.3"
     defaultConfig {
-        applicationId "com.bauhaus_uni.mis.myapplication"
+        applicationId "com.bauhaus_uni.mis.jigsaw"
         minSdkVersion 23
         targetSdkVersion 25
         versionCode 1

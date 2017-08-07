@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\mobile\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9f83f91bad4cb7efd85a1050b8b12f15c3316ba">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\mobile\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1664f106320b66fbe082412e48ff262e4b4cd76a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_af39c7a891a4771ae962258cb5ea866d6cf4b0c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2ea942707336a8e0a7e43157a285ff1c57fc60b6">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\wear\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_81071b207e14d308174abe0940fbfaa4041a452e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\mobile\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Study\Mobile_Information_Systems\AndroidWearJigsaw\myApplication\mobile\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_d2074d976eb82c6a1264b9486d482a2f421f7faa\classes.dex" />
+    </item>
+
+</items>
